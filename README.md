@@ -8,7 +8,7 @@ complément : https://creageo.github.io/projet-1-formulaire/ https://creageo.000
 
 code valide : oui
 
-non-voyants : 
+non-voyants : oui
 
 sanitizé et validé : sanitizé et validé
 
