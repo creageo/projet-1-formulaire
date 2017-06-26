@@ -8,6 +8,8 @@ complément : https://creageo.000webhostapp.com/
 
 code valide : oui
 
+non-voyants : 
+
 sanitizé et validé : sanitizé et validé
 
 responsive : oui
