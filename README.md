@@ -6,7 +6,7 @@ outil utilisé : sublimetext apache 000webhost
 
 complément : https://creageo.000webhostapp.com/
 
-code valide :
+code valide : oui
 
 sanitizé et validé : sanitizé et validé
 
