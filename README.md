@@ -4,7 +4,7 @@ code utilisé : hmtl css php bootstrap
 
 outil utilisé : sublimetext apache 000webhost 
 
-complément : https://creageo.000webhostapp.com/
+complément : https://creageo.github.io/projet-1-formulaire/ https://creageo.000webhostapp.com/
 
 code valide : oui
 
