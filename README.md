@@ -1,15 +1,15 @@
 # projet-1-formulaire
 
-code utilisé :
+code utilisé : hmtl css php bootstrap
 
-outil utilisé :
+outil utilisé : sublimetext apache 000webhost 
 
-complément :
+complément : https://creageo.000webhostapp.com/
 
-https://creageo.000webhostapp.com/
+code valide :
 
-validé :
+sanitizé et validé : sanitizé et validé
 
-responsive :
+responsive : oui
 
-sanitizé :
+mon evaluation sur 10 : 6/10
