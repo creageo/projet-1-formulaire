@@ -14,4 +14,6 @@ sanitizé et validé : sanitizé et validé
 
 responsive : oui
 
+exercice : https://github.com/becodeorg/BXLCentral/tree/master/Projects/1-Formulaire
+
 mon evaluation sur 10 : 6/10
