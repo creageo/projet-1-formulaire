@@ -12,7 +12,7 @@ non-voyants : oui
 
 sanitizé et validé : sanitizé et validé
 
-responsive : oui
+responsive : non
 
 exercice : https://github.com/becodeorg/BXLCentral/tree/master/Projects/1-Formulaire
 
